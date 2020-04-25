@@ -28,8 +28,10 @@ markdown: kramdown
 |----------------------------- | -----------------------------|
 | ```$$ e^{i\pi} + 1 = 0 $$```       |   $$ e^{i\pi} + 1 = 0 $$     |
 
-
-
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## GitHub Pages Rocks!
 
@@ -42,6 +44,10 @@ If you're not OK with ready to use templates, you can always customize! Check th
 
 I'll monkey around to get used into here and share my notes as I learn more. :tada:
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Welcome to GitHub Pages
 
