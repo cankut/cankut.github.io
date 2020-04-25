@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: Cankut's Tech Blog
 description: Software, Math and AI
+markdown: kramdown
 plugins:
   - jemoji
