@@ -4,12 +4,12 @@ title: Cankut's Tech Blog
 
 ## Adding MathJax support to your GitHub Page
 
-###### 1. Configure Markdown processor in _config.yml
+#### 1. Configure Markdown processor in _config.yml
 ```yml
 markdown: kramdown
 ```
 
-###### 2. Reference MathJax 2.x scripts and configure in your layout
+#### 2. Reference MathJax 2.x scripts and configure in your layout
 ```html
 <script type="text/x-mathjax-config">
          MathJax.Hub.Config({
@@ -22,7 +22,7 @@ markdown: kramdown
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ```
 
-###### 3. Include your mathematical expression between `$$` ... `$$`
+#### 3. Include your mathematical expression between `$$` ... `$$`
 
 $$ e^{i\pi} + 1 = 0 $$
 
