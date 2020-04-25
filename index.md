@@ -24,7 +24,12 @@ markdown: kramdown
 
 #### 3. Include your mathematical expression between `$$` ... `$$`
 
-$$ e^{i\pi} + 1 = 0 $$
+| Raw LaTex Expression         |    Rendered Version          |
+|----------------------------- | -----------------------------|
+| ```$$ e^{i\pi} + 1 = 0 $$```       |   $$ e^{i\pi} + 1 = 0 $$     |
+
+
+
 
 ## GitHub Pages Rocks!
 
