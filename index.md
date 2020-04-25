@@ -6,7 +6,7 @@ title: Cankut's Tech Blog
 
 Finally, I've decided to put my work & thoughts on Github Pages.  No hassle, free of charge environment. No server management, no html/css mumbo-jumbo. A little bit Jekyll and Markdown, then you're good to go. 
 
-> ### **Content > Style**
+> ### *Content > Style*
 
 
 If you're not OK with ready to use templates, you can always customize! Check this out: [Customizing your themes html layout](https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-html-layout)
