@@ -9,7 +9,6 @@ April 25, 2020
 ```yml
 markdown: kramdown
 ```
-
 #### 2. Reference MathJax 2.x scripts and configure in your layout
 ```html
 <script type="text/x-mathjax-config">
@@ -22,23 +21,17 @@ markdown: kramdown
        </script>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ```
-
-```json
-{{ site.github }}
-```
-
 #### 3. Include your mathematical expression between `$$` ... `$$`
 
 | Raw LaTex Expression         |    Rendered Version          |
-|----------------------------- | -----------------------------|
-| ```$$ e^{i\pi} + 1 = 0 $$```       |   $$ e^{i\pi} + 1 = 0 $$     |
+|:----------------------------:|:-----------------------------:|
+| ```$$ e^{i\pi} + 1 = 0 $$``` |   $$ e^{i\pi} + 1 = 0 $$     |
 
-<br/>
-<br/>
 <br/>
 <hr/>
+<br/>
 
-April 24, 2020
+<span>April 24, 2020</span>
 ## GitHub Pages Rocks!
 
 Finally, I've decided to put my work & thoughts on Github Pages.  No hassle, free of charge environment. No server management, no html/css mumbo-jumbo. A little bit Jekyll and Markdown, then you're good to go. 
@@ -50,7 +43,5 @@ If you're not OK with ready to use templates, you can always customize! Check th
 
 I'll monkey around to get used into here and share my notes as I learn more. :tada:
 
-<br/>
-<br/>
 <br/>
 

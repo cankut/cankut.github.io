@@ -1,0 +1,8 @@
+@media screen and (min-width: 64em) { .page-header { padding: 1rem 6rem; } }
+
+h2 {
+    margin-top: 0 !important;
+}
+.main-content p {
+    margin-bottom: 0 !important;
+}
