@@ -23,6 +23,10 @@ markdown: kramdown
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 ```
 
+```json
+{{ site.github }}
+```
+
 #### 3. Include your mathematical expression between `$$` ... `$$`
 
 | Raw LaTex Expression         |    Rendered Version          |
