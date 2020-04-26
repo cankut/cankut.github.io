@@ -31,7 +31,7 @@ markdown: kramdown
 <hr/>
 <br/>
 
-<span>April 24, 2020</span>
+April 24, 2020
 ## GitHub Pages Rocks!
 
 Finally, I've decided to put my work & thoughts on Github Pages.  No hassle, free of charge environment. No server management, no html/css mumbo-jumbo. A little bit Jekyll and Markdown, then you're good to go. 
