@@ -7,6 +7,9 @@ May 03, 2020
 
 Creating a snake playing AI through genetic evolution. Detailed blog post and source code [here]({{site.url}}/posts/2020-05-03-snake.html).
 
+<a href="{{site.url}}/posts/2020-05-03-snake.html">
+<img src="{{site.url}}/images/sample_play.png" />
+</a>
 <br/>
 <hr/>
 <br/>
