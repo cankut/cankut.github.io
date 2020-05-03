@@ -1,0 +1,68 @@
+.center {
+    text-align: center;
+}
+
+.quote-author{
+    text-align: right;
+    font-style: italic;
+}
+
+.noborder {
+    border: none !important;
+}
+
+.command {
+    cursor: pointer;
+}
+
+#snake, #timeout {
+    width: 60px;
+}
+
+#playboard {
+    border: none;
+    display: block;
+    max-width: 100%;
+}
+
+#score,#userscore {
+    font-family: Courier, monospace;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+#snakesize,#usersnakesize {
+    color: #4caf50;
+}
+
+#snakevision {
+    user-select: none;
+}
+#snakevision td {
+    height: 64px;
+    width: 64px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+#replay {
+    width: 211px;
+    height: 211px;
+}
+
+.apple {
+    background-color: red;
+}
+.body {
+    background-color: green;
+}
+
+.scroll-overflow-x {
+    overflow-x: scroll;
+    overflow: auto;
+}
+
+.horizontal-spacer {
+    min-width: 180px;
+    display: block;
+}

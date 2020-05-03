@@ -1,8 +1,31 @@
-@media screen and (min-width: 64em) { .page-header { padding: 1rem 6rem; } }
-
-h2 {
-    margin-top: 0 !important;
+@media screen and (min-width: 64em) { 
+    .page-header { padding: 1rem 6rem; } 
+    .main-content {
+        max-width: 64rem;
+        padding: 2rem 6rem;
+        margin: 0 auto;
+        font-size: 0.95rem;
+    }
 }
+
 .main-content p {
     margin-bottom: 0 !important;
+}
+
+.wrapper {
+    
+}
+
+.v-mid {
+    vertical-align: middle;
+}
+
+.footer-ico {
+    width: 20px;
+    color: gray;
+}
+
+.footer-item {
+    display: inline-block;
+    font-size: 20px;
 }

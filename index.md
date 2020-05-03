@@ -2,6 +2,16 @@
 title: Cankut's Tech Blog
 ---
 
+May 03, 2020
+## Evolving Snake AI
+
+Creating a snake playing AI through genetic evolution. Detailed blog post and source code [here]({{site.url}}/posts/2020-05-03-snake.html).
+
+<br/>
+<hr/>
+<br/>
+
+
 April 25, 2020
 ## Adding MathJax support to your GitHub Page
 
