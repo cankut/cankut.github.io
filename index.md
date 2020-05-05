@@ -2,6 +2,21 @@
 title: Cankut's Tech Blog
 ---
 
+May 05, 2020
+## Handwritten Digit Recognition in JavaScript
+
+Feed forward implementation of a digit recognizing Regular Deep Neural Network and a Convolutional Neural Network in JavaScript. 
+See detailed blog post and playground [here]({{site.url}}/posts/2020-05-05-handwritten-digit-recognition.html).
+
+<a href="{{site.url}}/posts/2020-05-05-handwritten-digit-recognition.html">
+<img src="{{site.url}}/images/digitrecognition/sample_digitrecog.png" />
+</a>
+<br/>
+<hr/>
+<br/>
+
+
+
 May 03, 2020
 ## Evolving Snake AI
 

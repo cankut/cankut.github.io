@@ -25,3 +25,7 @@
     display: inline-block;
     font-size: 20px;
 }
+
+.center {
+    text-align: center;
+}
