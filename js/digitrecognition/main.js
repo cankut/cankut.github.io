@@ -511,6 +511,17 @@ function showPrediction(dnn, cnn) {
     $("#cnn").text(cnn)
 }
 
+function saveCanvas(canvas){
+    var matrix = ImageHelper.toMatrix(canvas)
+    var flatten = Matrix.to1D(matrix)
+
+    var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(flatten));
+    var dlAnchorElem = document.getElementById("downloadAnchor");
+    dlAnchorElem.setAttribute("href",     dataStr     );
+    dlAnchorElem.setAttribute("download", "input.json");
+    dlAnchorElem.click();
+}
+
 //----
 
 $(document).ready(function () {
@@ -536,11 +547,16 @@ $(document).ready(function () {
         $("#cnn").text("")
     })
 
+    $("#download").click(function(){
+        saveCanvas(actualCanvas)
+    })
+
     var progress = multiFileProgress().onUpdate(function(){
         var complete_percentage =  100*progress.get()
         console.log("progress %" + complete_percentage.toFixed(3))
         $("#progress").width(complete_percentage+"%")
     })
+
 
     var getDNN = getJSONwithProgress("/js/digitrecognition/dnnmodel.json", {infer_decompressed_size: true}).progress(function (url, loaded, total) { progress.update(url,loaded,total) })
     var getCNN = getJSONwithProgress("/js/digitrecognition/cnn-small.json", {infer_decompressed_size: true}).progress(function (url, loaded, total) { progress.update(url,loaded,total) })

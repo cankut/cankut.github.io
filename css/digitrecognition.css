@@ -90,3 +90,10 @@
 .progress-bar-success {
     background-color: #5cb85c;
 }
+
+.icon {
+    float: right;
+    margin: 3px 8px 0px 0px;
+    width: 20px;
+    cursor: pointer;
+}
