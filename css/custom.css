@@ -1,12 +1,63 @@
+.header-bar {
+    max-width: 64rem;
+    padding: 0rem 6rem;
+    margin: -30px auto 0px auto;
+    font-size: 0.95rem;
+    text-align: left;
+
+}
+
+.header-bar a {
+    fill: white;
+    color: white;
+    text-decoration: none;
+}
+
+.header-item {
+    display: inline-block;
+    cursor: pointer;
+}
+
 @media screen and (min-width: 64em) { 
+
     .page-header { padding: 1rem 6rem; } 
     .main-content {
-        max-width: 64rem;
-        padding: 2rem 6rem;
-        margin: 0 auto;
         font-size: 0.95rem;
     }
-}
+
+    .header-bar {
+        padding: 0rem 6rem;
+    }
+
+ }
+
+@media screen and (min-width: 42em) and (max-width: 64em) { 
+
+    .page-header { padding: 0.9rem 4rem; } 
+    .main-content {
+        font-size: 0.90rem;
+    }
+
+    .header-bar {
+        padding: 0rem 4rem;
+    }
+ }
+
+@media screen and (max-width: 42em) { 
+
+    .page-header { padding: 0.8rem 3rem; } 
+    .main-content {
+        font-size: 0.85rem;
+    }
+
+    .header-bar {
+        padding: 0rem 1rem;
+    }
+ }
+
+
+
+
 
 .main-content p {
     margin-bottom: 0 !important;
@@ -29,3 +80,5 @@
 .center {
     text-align: center;
 }
+
+

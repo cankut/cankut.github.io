@@ -1,5 +1,6 @@
 ---
 title: Cankut's Tech Blog
+is_home: true
 ---
 
 May 05, 2020
