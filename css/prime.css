@@ -1,0 +1,31 @@
+.fit-parent-height {
+    height: 100%;
+}
+
+.img-ann {
+    height: auto;
+}
+
+.img-ann, big {
+    height: auto;
+}
+
+.img-container {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+.img-container img {
+    max-width: unset !important;
+}
+
+.img-gal {
+    width: 35vw;
+    max-width: 200px! important;
+}
+
+.gallery td {
+    text-align: center;
+}
+
