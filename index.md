@@ -2,6 +2,19 @@
 title: Cankut's Tech Blog
 is_home: true
 ---
+May 12, 2020
+## Generating Prime Images
+
+Find prime number representations for any image! Read details [here]({{site.url}}/posts/2020-05-12-image-to-prime.html).
+
+<a href="{{site.url}}/posts/2020-05-12-image-to-prime.html">
+<img src="{{site.url}}/images/prime/article_thumb.png" />
+</a>
+<br/>
+<hr/>
+<br/>
+
+
 
 May 05, 2020
 ## Handwritten Digit Recognition in JavaScript
