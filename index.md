@@ -5,10 +5,10 @@ is_home: true
 May 12, 2020
 ## Generating Prime Images
 
-Find prime number representations for any image! Read details [here]({{site.url}}/posts/2020-05-12-image-to-prime.html).
+Find prime number representations for any image! Read details [here](/posts/2020-05-12-image-to-prime.html).
 
-<a href="{{site.url}}/posts/2020-05-12-image-to-prime.html">
-<img src="{{site.url}}/images/prime/article_thumb.png" />
+<a href="/posts/2020-05-12-image-to-prime.html">
+<img src="/images/prime/article_thumb.png" />
 </a>
 <br/>
 <hr/>
@@ -20,10 +20,10 @@ May 05, 2020
 ## Handwritten Digit Recognition in JavaScript
 
 Feed forward implementation of a digit recognizing Regular Deep Neural Network and a Convolutional Neural Network in JavaScript. 
-See detailed blog post and playground [here]({{site.url}}/posts/2020-05-05-handwritten-digit-recognition.html).
+See detailed blog post and playground [here](/posts/2020-05-05-handwritten-digit-recognition.html).
 
-<a href="{{site.url}}/posts/2020-05-05-handwritten-digit-recognition.html">
-<img src="{{site.url}}/images/digitrecognition/sample_digitrecog.png" />
+<a href="/posts/2020-05-05-handwritten-digit-recognition.html">
+<img src="/images/digitrecognition/sample_digitrecog.png" />
 </a>
 <br/>
 <hr/>
@@ -34,10 +34,10 @@ See detailed blog post and playground [here]({{site.url}}/posts/2020-05-05-handw
 May 03, 2020
 ## Evolving Snake AI
 
-Creating a snake playing AI through genetic evolution. Detailed blog post and source code [here]({{site.url}}/posts/2020-05-03-snake.html).
+Creating a snake playing AI through genetic evolution. Detailed blog post and source code [here](/posts/2020-05-03-snake.html).
 
-<a href="{{site.url}}/posts/2020-05-03-snake.html">
-<img src="{{site.url}}/images/sample_play.png" />
+<a href="/posts/2020-05-03-snake.html">
+<img src="/images/sample_play.png" />
 </a>
 <br/>
 <hr/>
