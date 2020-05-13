@@ -3,7 +3,6 @@ layout: default
 title: Painting with Prime Numbers
 description: Find prime numbers to represent almost any image!
 scripts: 
-  - /js/prime/main.js
 css:
   - /css/prime.css
 ---
