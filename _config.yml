@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 title: Cankut's Tech Blog
 description: Software, Math and AI
-google_analytics: UA-165372390-1
+google_analytics: G-DP8F543CBP
 markdown: kramdown
 plugins:
   - jemoji
